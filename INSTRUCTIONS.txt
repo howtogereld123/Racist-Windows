@@ -1,0 +1,5 @@
+Extract the folder then run the Batch for the voice edition or run the VBS file for the text version.
+
+BATCH FILE INSTRUCTIONS: Run it then wait for the CMD PROMPT to close.
+
+VBS FILE INSTRUCTIONS: Run it then when you are done, click "OK".
